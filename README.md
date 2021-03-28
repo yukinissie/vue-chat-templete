@@ -1,4 +1,5 @@
-# vue-chat
+# vue-chat-templete
+Vue.js * AWS (API Gateway * Lambda * DynamoDB * Amplify Hosting)
 
 ## Project setup
 ```
